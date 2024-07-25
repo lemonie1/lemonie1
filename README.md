@@ -12,3 +12,4 @@
 - Brief Psych Engine compiling
 - A bit of python
 - Some knowledge of PCBS, microcontrollers and microprocessors and good stuff
+- Soda drinking
