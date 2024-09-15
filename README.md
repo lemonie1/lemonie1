@@ -13,3 +13,4 @@
 - A bit of python
 - Some knowledge of PCBS, microcontrollers and microprocessors and good stuff
 - Soda drinking
+- Reading Scott Pilgrim Comics and Shows for a billion times
